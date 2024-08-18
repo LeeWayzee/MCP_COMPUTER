@@ -1,0 +1,4 @@
+Pico-Computer
+Version:v.1.0.0
+Lang:Python3.11
+Author:LZL
